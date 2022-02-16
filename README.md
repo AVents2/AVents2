@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AVents2
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ & UE Blueprints
+- 🌱 I’m currently learning C++ & Phyton for fun
 - 💞️ I’m looking to collaborate on ... ᓚᘏᗢ
 - 📫 How to reach me -> AVents#2270 on Discord
 
